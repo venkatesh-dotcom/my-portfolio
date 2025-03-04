@@ -43,9 +43,9 @@ Tools & Frameworks:
 
 🌍 Connect with Me
 
-[![LinkedIn]](https://linkedin.com/in/venky-venky-a10222339/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/venky-venky-a10222339/)
 
-[![Github]](https://github.com/venkatesh-dotcom)
+[![Github](https://img.shields.io/badge/github-blue?style=flat&logo=github)](https://github.com/venkatesh-dotcom)
 
 
 
