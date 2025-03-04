@@ -4,7 +4,11 @@
 
 🌟 About Me
 
-🔭 I’m currently working on Hackathon
+🚀 I am currently working on a project named Master Code
+
+💻 Master Code
+
+Hello, I'm Venkatesh, a React developer that provides information, registration, and resources for hackathon events, enabling participants to collaborate, innovate, and showcase their coding skills. It often includes event schedules, team formation features, project submissions, and judging criteria
 
 🌱 I’m learning React.js, Node.js
 
@@ -26,7 +30,8 @@ Languages:
 
 
 
-Tools & Frameworks:![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+Tools & Frameworks:
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
@@ -39,6 +44,8 @@ Tools & Frameworks:![React](https://img.shields.io/badge/React-61DAFB?style=flat
 🌍 Connect with Me
 
 [![LinkedIn]](https://linkedin.com/in/venky-venky-a10222339/)
+
+[![Github]](https://github.com/venkatesh-dotcom)
 
 
 
