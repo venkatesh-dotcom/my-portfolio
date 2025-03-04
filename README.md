@@ -1,10 +1,12 @@
-👋 Hi, I'm venkatesh
+<img src="https://github.com/venkatesh-dotcom.png" width="150" height="150" align="right"/>
+
+👋 Hi, I'm venkatesh Sirasanagandla
 
 🚀 Full stack Developer | 🎨 UI Developer
 
 🌟 About Me
 
-🚀 I am currently working on **[Project Name Master Code]  (https://github.com/venkatesh-dotcom/PRO-team-)**
+🚀 I am currently working on **[Master Code] (https://github.com/venkatesh-dotcom/PRO-team-)**
 
 💻 Master Code
 
@@ -17,6 +19,16 @@ Hello, I'm Venkatesh, a React developer that provides information, registration,
 📫 How to reach me: venkateshsirasanagandla@gmail.com
 
 ⚡ Fun fact: I love gaming ! 🎮
+
+🎓 Education Details
+
+🎓 [ University JNTUK 
+
+🎓  College Name Malineni Perumallu Educational Society's Group of Institutions]
+
+📍 [Degree Name  Bachelor Of Technology In Civil Engineering]
+
+📆 [2012 To 2016]
 
 🚀 My Skills
 
@@ -45,7 +57,7 @@ Tools & Frameworks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/venky-venky-a10222339/)
 
-[![Github](https://img.shields.io/badge/github-blue?style=flat&logo=github)](https://github.com/venkatesh-dotcom)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/venkatesh-dotcom)
 
 
 
